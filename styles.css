@@ -1,0 +1,13 @@
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+
+  body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+  }
