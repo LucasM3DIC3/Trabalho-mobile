@@ -24,9 +24,12 @@
   .principal {
     background-image: url("https://i.pinimg.com/originals/68/9e/13/689e13b5a9e29749f6ae2cce530f7f3e.gif");
     background-repeat: no-repeat;
-    background-size:auto;
+    background-size:cover;
     align-items: center;  
     text-align: center;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
   }
 
   .container__titulo {
