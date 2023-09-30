@@ -24,7 +24,7 @@
   .principal {
     background-image: url("https://i.pinimg.com/originals/68/9e/13/689e13b5a9e29749f6ae2cce530f7f3e.gif");
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size:auto;
     align-items: center;  
     text-align: center;
   }
