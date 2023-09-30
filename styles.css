@@ -34,3 +34,8 @@
     font-weight: 700;
     font-weight: bold;
   }
+
+  .container__caixa {
+    align-items: center;
+    margin:4em
+  }
