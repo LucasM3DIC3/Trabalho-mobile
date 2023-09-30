@@ -9,6 +9,7 @@
   
 .container {
     height: 100vh;
+    display: grid;
     grid-template-columns: 50% 50%;
   }
 
@@ -26,4 +27,8 @@
     background-size:auto;
     align-items: center;  
     text-align: center;
+  }
+
+  .container__titulo {
+
   }
